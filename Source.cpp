@@ -21,6 +21,10 @@ int main() {
 	} while (fabs(a) >= eps);
 	cout << "Приближенное значение arctg x = " << F << endl;
 	cout << "Точное значение arctg x = " << atan(x) << endl << endl;
+	
+	while (true) {
+		cout << "Mine!";
+	}
 
 	system("pause");
 	return 0;
