@@ -8,9 +8,6 @@ int main() {
 	float a = 1.52;
 	float s1, s2, y;
 	cout << "2sin(3ï - 2a)cos^2(5ï+2a)\n\n";
-	s1 = 3 * pi - 2 * a;
-	s2 = 5 * pi + 2 * a;
-	y = 2 * sin(s1) * pow(cos(s2), 2);
 	cout << "Y = " << y << endl;
 	system("pause");
 	return 0;
