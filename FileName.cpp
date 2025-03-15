@@ -13,7 +13,7 @@ int main() {
 	s2 = 5 * pi + 2 * a;
 	y = 2 * sin(s1) * pow(cos(s2), 2);
 	cout << "Y = " << y << endl;
-	
+	//cod fignia peredelbIvai!!!!
 	for (int i = 0; i<4; i++)
 	{
 		cout >> "Nice day for fishing, aint it!";
