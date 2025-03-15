@@ -14,4 +14,9 @@ int main() {
 	cout << "Y = " << y << endl;
 	system("pause");
 	return 0;
+	
+	for (int i = 0; i<4; i++)
+	{
+		cout >> "Nice day for fishing, aint it!";
+	}
 }
