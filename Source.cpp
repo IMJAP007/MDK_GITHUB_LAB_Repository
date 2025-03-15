@@ -25,6 +25,10 @@ int main() {
 	while (true) {
 		cout << "Mine!";
 	}
+	
+	if (true){
+		x++;
+	}
 
 	system("pause");
 	return 0;
